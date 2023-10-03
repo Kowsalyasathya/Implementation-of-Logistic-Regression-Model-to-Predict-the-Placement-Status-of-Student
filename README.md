@@ -1,4 +1,4 @@
-![l4 5](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/71c8b37a-872b-4a24-84e0-392bb5a6eec5)![l4 4](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/00091985-bc46-4056-99a1-c41a81c8d263)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -85,10 +85,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ### Placements data Salary data :
-![l4 1](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/b54fdcb7-a837-45b0-836d-66ab4caff108)
+![Uploading l1.png…]()
+
 ### Checking null values:
 ![l2](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/48019c7d-8046-4593-a45b-c30f56cd672a)
-### Print data:
+### Data duplicated :
 ![l4 3](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/5d88ee70-7b74-488c-8767-2a1eaf16717e)
 ### Data-Status:
 ![l4 4](https://github.com/Kowsalyasathya/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118671457/cfbb91b5-ad62-453d-ad84-a75a28965ef3)
